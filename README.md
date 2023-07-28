@@ -12,5 +12,6 @@ https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/react-router-vs-rtk.
 4 - Multi slice redux toolkit   
 https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/multi-slice-redux-toolkit.md
 
-
+5 - React authen JWT   
+https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/react-authen-jwt.md  
 
