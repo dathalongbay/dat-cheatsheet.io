@@ -15,3 +15,6 @@ https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/multi-slice-redux-to
 5 - React authen JWT   
 https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/react-authen-jwt.md  
 
+6 - React authen HOC   
+https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/react-authen-hoc.md   
+
