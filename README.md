@@ -9,3 +9,8 @@ https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/redux-toolkit.md
 3 - React router vs redux toolkit   
 https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/react-router-vs-rtk.md
 
+4 - Multi slice redux toolkit   
+https://github.com/dathalongbay/dat-cheatsheet.io/blob/main/multi-slice-redux-toolkit.md
+
+
+
